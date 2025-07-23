@@ -1,2 +1,3 @@
 # Portfolio
-This is My Portfolio website showcasing stacks of my skills 
+This is my Portfolio website showcasing stacks of my skills 
+Author - Shamuvel Jadhav
